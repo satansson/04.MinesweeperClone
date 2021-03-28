@@ -5,3 +5,6 @@ During this project I've learned how to:
 - work hith 2d sprites and change them programmatically;
 - create click mechanics;
 - use Time class for a timer purpose.
+
+Check thic out:
+https://play.unity.com/mg/other/webgl-builds-30930
