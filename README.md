@@ -6,5 +6,5 @@ During this project I've learned how to:
 - create click mechanics;
 - use Time class for a timer purpose.
 
-Check thic out:
+Check this out:
 https://play.unity.com/mg/other/webgl-builds-30930
